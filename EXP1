@@ -1,0 +1,37 @@
+Aim:To study the basic concepts of Data Visualization and understand how data can be represented graphically using charts, graphs, and plots.
+
+Introduction:
+Data Visualization is the process of presenting data in a graphical or visual format. 
+It helps users understand large and complex datasets by displaying patterns, trends, comparisons, and relationships clearly. 
+Common forms of data visualization include bar charts, line charts, pie charts, histograms, and scatter plots.
+
+Objectives:
+To understand the concept and importance of data visualization.
+To learn different types of charts and graphs.
+To represent data in a clear and meaningful visual form.
+To identify patterns, trends, and relationships in data.
+To improve data analysis and interpretation skills.
+To understand how visualization supports decision-making.
+
+Tools Required:
+Computer or laptop
+Python programming language
+Jupyter Notebook or Google Colab
+Python libraries such as:
+Matplotlib
+Seaborn
+Pandas
+Sample dataset
+
+Applications:
+Business: Sales analysis, revenue trends, and customer analysis.
+Education: Student performance and attendance analysis.
+Healthcare: Patient data and disease statistics.
+Finance: Stock prices, investment trends, and financial analysis.
+Marketing: Customer behavior and campaign performance.
+Science and research: Experimental results and statistical analysis.
+Government: Population, economic, and demographic data analysis.
+Social media: Engagement, followers, and trend analysis.
+
+Result:
+The basic concepts of Data Visualization were studied successfully. Different types of charts and graphs were understood, and their importance in representing, analyzing, and interpreting data was observed. Data visualization helps to identify patterns, trends, comparisons, and relationships in a simple and effective manner.
